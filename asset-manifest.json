@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-drinksdb-project/static/css/main.5c529f91.chunk.css",
+    "main.js": "/react-drinksdb-project/static/js/main.1916ac60.chunk.js",
+    "main.js.map": "/react-drinksdb-project/static/js/main.1916ac60.chunk.js.map",
+    "runtime-main.js": "/react-drinksdb-project/static/js/runtime-main.78b02717.js",
+    "runtime-main.js.map": "/react-drinksdb-project/static/js/runtime-main.78b02717.js.map",
+    "static/js/2.72303b8e.chunk.js": "/react-drinksdb-project/static/js/2.72303b8e.chunk.js",
+    "static/js/2.72303b8e.chunk.js.map": "/react-drinksdb-project/static/js/2.72303b8e.chunk.js.map",
+    "index.html": "/react-drinksdb-project/index.html",
+    "precache-manifest.cb50a10a4a205c977b25e7aec393e642.js": "/react-drinksdb-project/precache-manifest.cb50a10a4a205c977b25e7aec393e642.js",
+    "service-worker.js": "/react-drinksdb-project/service-worker.js",
+    "static/css/main.5c529f91.chunk.css.map": "/react-drinksdb-project/static/css/main.5c529f91.chunk.css.map",
+    "static/js/2.72303b8e.chunk.js.LICENSE.txt": "/react-drinksdb-project/static/js/2.72303b8e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-drinksdb-project/static/media/logo.9a3d2645.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78b02717.js",
+    "static/js/2.72303b8e.chunk.js",
+    "static/css/main.5c529f91.chunk.css",
+    "static/js/main.1916ac60.chunk.js"
+  ]
+}
